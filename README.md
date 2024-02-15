@@ -1,0 +1,2 @@
+# myTestPublicRepos
+テスト用パブリックリポジトリ
